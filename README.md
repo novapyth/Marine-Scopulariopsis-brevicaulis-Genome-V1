@@ -1,5 +1,4 @@
 Marine-Scopulariopsis-brevicaulis-Genome-V1
-
 ---
 
 Genomic Sequences: Scopulariopsis_Genome_Version1.fasta.zip
