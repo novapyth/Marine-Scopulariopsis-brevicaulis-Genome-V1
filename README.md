@@ -1,8 +1,13 @@
 Marine-Scopulariopsis-brevicaulis-Genome-V1
 ---
 
-Genomic Sequences: Scopulariopsis_Genome_Version1.fasta.zip
-protein Sequences: Annotated_Protein_Scopulariopsis_Version1.fasta.zip
+Genomic Sequences: 
+
+Scopulariopsis_Genome_Version1.fasta.zip
+
+protein Sequences: 
+
+Annotated_Protein_Scopulariopsis_Version1.fasta.zip
 
 ---
 ### *Scopulariopsis brevicaulis* LF580
