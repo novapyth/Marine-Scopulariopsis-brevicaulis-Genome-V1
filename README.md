@@ -26,7 +26,8 @@ Overall, the genome sequence of *S. brevicaulis* LF580 provides important insigh
 
 ---
 Citations: 
-Kumar A, Henrissat B, Arvas M, Syed MF, Thieme N, Benz JP, Sørensen JL, Record E, Pöggeler S, Kempken F. De Novo Assembly and Genome Analyses of the Marine-Derived Scopulariopsis brevicaulis Strain LF580 Unravels Life-Style Traits and Anticancerous Scopularide Biosynthetic Gene Cluster. PLoS One. 2015 Oct 27;10(10):e0140398. doi: 10.1371/journal.pone.0140398. PMID: 26505484; PMCID: PMC4624724.
-Lukassen MB, Saei W, Sondergaard TE, Tamminen A, Kumar A, Kempken F, Wiebe MG, Sørensen JL. Identification of the Scopularide Biosynthetic Gene Cluster in Scopulariopsis brevicaulis. Mar Drugs. 2015 Jul 14;13(7):4331-43. doi: 10.3390/md13074331. PMID: 26184239; PMCID: PMC4515620.
+1) Kumar A, Henrissat B, Arvas M, Syed MF, Thieme N, Benz JP, Sørensen JL, Record E, Pöggeler S, Kempken F. De Novo Assembly and Genome Analyses of the Marine-Derived Scopulariopsis brevicaulis Strain LF580 Unravels Life-Style Traits and Anticancerous Scopularide Biosynthetic Gene Cluster. PLoS One. 2015 Oct 27;10(10):e0140398. doi: 10.1371/journal.pone.0140398. PMID: 26505484; PMCID: PMC4624724.
+   
+3) Lukassen MB, Saei W, Sondergaard TE, Tamminen A, Kumar A, Kempken F, Wiebe MG, Sørensen JL. Identification of the Scopularide Biosynthetic Gene Cluster in Scopulariopsis brevicaulis. Mar Drugs. 2015 Jul 14;13(7):4331-43. doi: 10.3390/md13074331. PMID: 26184239; PMCID: PMC4515620.
 
 ---
